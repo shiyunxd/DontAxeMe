@@ -1,2 +1,3 @@
-# DontAxeMe
-For Hypixel Skyblock Dungeons - removes the Berserker class ability's armorstand to make Etherwarp work 100% of the time.
+You are free to copy paste any lines of code from this if you would like to add this to your own module.
+
+credit: @flonja for making this work at all.

@@ -1,0 +1,7 @@
+{
+    "name": "DontAxeMe",
+    "description": "shoutout SadanMasterMode for 2 secrets per run",
+    "version": "0.0.1",
+    "author": "shiyun",
+    "entry": "index.js"
+}
